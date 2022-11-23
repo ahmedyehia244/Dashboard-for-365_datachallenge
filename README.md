@@ -1,4 +1,4 @@
-# Dashpord-for-365_datachallenge
+# Dashboard-for-365_datachallenge
 This is a presentation for the dashboard created by powerbi to analyse student engagement and purchases in 365-datascience database
 the presentation discusses the following <br />
 1- the average and total course ratings, the top10 countries engaged in learning, and the top10 countries where students make purchases <br />
